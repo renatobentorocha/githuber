@@ -6,6 +6,6 @@ export default {
   baseMargin: 10,
   basePadding: 20,
   baseRadius: 3,
-  screenWidht: width < height ? width : height,
+  screenWidth: width < height ? width : height,
   screenHeight: width < height ? height : width,
 };
